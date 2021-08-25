@@ -49,5 +49,5 @@ I am a passionate web developer that enjoys solving challenges and creating beau
 ## ✍️ Blog Posts
 
 - [Un-permitted Parameters in Ruby on Rails — Why they don’t raise errors, and should they?](https://stevehvaughn.medium.com/un-permitted-parameters-in-ruby-on-rails-why-they-dont-raise-errors-and-should-they-354a6c5ee759)
-- [Learn about the difference between iterate and enumerate in JavaScript using for loops - Published in CodeX on Medium](https://medium.com/codex/learn-about-the-difference-between-iterate-and-enumerate-in-javascript-using-for-loops-40a42dec576f)
+- [Learn about the difference between iterate and enumerate in JavaScript using for loops](https://medium.com/codex/learn-about-the-difference-between-iterate-and-enumerate-in-javascript-using-for-loops-40a42dec576f) Published in CodeX on Medium
 - [The Path from Classical Musician to Software Engineer](https://stevehvaughn.medium.com/day-1-the-path-from-classical-musician-to-software-engineer-9d2eb54a92a0)
