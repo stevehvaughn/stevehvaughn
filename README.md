@@ -7,8 +7,8 @@ I am a passionate web developer that enjoys solving challenges and creating beau
 
 ### :handshake: Connect with me:  
 
-<a href="https://www.linkedin.com/in/stevehvaughn/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Steve Vaughn | LinkedIn" width="21px"/></a>
-<a href="https://stevehvaughn.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Steve Vaughn | Medium" width="21px"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/stevehvaughn/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Steve Vaughn | LinkedIn" width="21px"/></a>
+<a target="_blank" href="https://stevehvaughn.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Steve Vaughn | Medium" width="21px"/></a>
 <br>
 
 ## 💼 Technical Skills <br>
