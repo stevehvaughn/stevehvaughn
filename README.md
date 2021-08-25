@@ -2,7 +2,7 @@
 <h3 align="center">Hello! I'm Steve 👋</h3>  
 <br>
 <h2 align="center">I'm a Full-Stack Web Developer 💻 and Professional Musician 🎺 based in Denver, Colorado ⛰️!</h2>
-
+<br>
 I am a passionate web developer that enjoys solving challenges and creating beautiful websites that give the user an intuitive experience!
 
 Technical Skills<br/>
