@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![banner](https://user-images.githubusercontent.com/82396393/130871490-c3d799b7-3be9-4107-9cff-8e42ea612999.mp4 / GIF)
+![banner](https://user-images.githubusercontent.com/82396393/130872429-a129a9e2-3b32-4610-89f3-00118dcf64a8.gif / GIF)
