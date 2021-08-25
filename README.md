@@ -1,8 +1,8 @@
 ![Steve Vaughn Banner](https://user-images.githubusercontent.com/82396393/130872608-7c7a13ce-e081-4ed9-a2ff-f3d9bf50775f.gif)
 
-<h1 style="text-align: center;">Hello, I'm Steve<h1>
-
-## I am a Full-Stack Web Developer and Professional Musician! 
+<div class="myWrapper markdown="1">
+  <h1 style="text-align: center;">Hello, I'm Steve</h1>
+  <h2>I am a Full-Stack Web Developer and Professional Musician!</h2>
 
 Technical Skills<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,3 +29,5 @@ Technical Skills<br/>
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+</div>
