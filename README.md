@@ -11,8 +11,8 @@ I am a passionate web developer that enjoys solving challenges and creating beau
 <a href="https://stevehvaughn.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Steve Vaughn | Medium" width="21px"/></a>
 <br>
 
-## 💼 Technical Skills 
-<br>
+## 💼 Technical Skills <br>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
