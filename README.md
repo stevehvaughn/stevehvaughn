@@ -1,6 +1,6 @@
 ![Steve Vaughn Banner](https://user-images.githubusercontent.com/82396393/130872608-7c7a13ce-e081-4ed9-a2ff-f3d9bf50775f.gif)
 
-<center>Hello, I'm Steve</center> 
+<h1 style="text-align: center;">Hello, I'm Steve<h1>
 
 ## I am a Full-Stack Web Developer and Professional Musician! 
 
