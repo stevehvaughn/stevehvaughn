@@ -1,7 +1,7 @@
 ![Steve Vaughn Banner](https://user-images.githubusercontent.com/82396393/130872608-7c7a13ce-e081-4ed9-a2ff-f3d9bf50775f.gif)
 <h3 align="center">Hello! I'm Steve 👋</h3>  
 
-<h3 align="center">I'm a Full-Stack Web Developer 💻 and Professional Musician 🎺 based in Denver, Colorado ⛰️</h2>
+<h3 align="center">I'm a Full-Stack Web Developer 💻  and Professional Musician 🎺  based in Denver, Colorado ⛰️ </h2>
 <br>
 I am a passionate web developer that enjoys solving challenges and creating beautiful websites to give the user an intuitive experience!
 
