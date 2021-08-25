@@ -2,7 +2,7 @@
 <h1 align="center">
 Hello! I'm Steve 👋
 </h1>
-
+<br>
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻 and Professional Musician 🎺 based in Denver, Colorado ⛰️
 </h2>
