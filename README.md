@@ -1,4 +1,4 @@
-![Steve Vaughn Banner](https://user-images.githubusercontent.com/82396393/131529219-f762ac18-171c-4b17-b56a-4a9a05a79dbe.gif)
+![Steve Vaughn](https://user-images.githubusercontent.com/82396393/131535969-e5f6421a-1c32-4d3d-acc3-0242955ed889.gif)
 <h3 align="center">Hello! I'm Steve 👋</h3>  
 
 <h3 align="center">I'm a Full-Stack Web Developer 💻  and Professional Musician 🎺  based in Denver, Colorado ⛰️ </h2>
