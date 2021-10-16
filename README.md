@@ -52,4 +52,6 @@ I am a passionate web developer that enjoys solving challenges and creating beau
 - [Learn about the difference between iterate and enumerate in JavaScript using for loops](https://medium.com/codex/learn-about-the-difference-between-iterate-and-enumerate-in-javascript-using-for-loops-40a42dec576f) 👏 Published in CodeX on Medium
 - [The Path from Classical Musician to Software Engineer](https://stevehvaughn.medium.com/day-1-the-path-from-classical-musician-to-software-engineer-9d2eb54a92a0)
 
+## :chart_with_upwards_trend: GitHub Stats <br>
+
 ![Snake gif](https://github.com/stevehvaughn/stevehvaughn/blob/output/github-contribution-grid-snake.svg)
